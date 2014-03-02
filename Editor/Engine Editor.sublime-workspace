@@ -420,10 +420,21 @@
 	"buffers":
 	[
 		{
+			"contents": "",
 			"file": "Main.cpp",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 1023,
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/.gitignore",
+			"settings":
+			{
+				"buffer_size": 82,
 				"line_ending": "Windows"
 			}
 		},
@@ -432,15 +443,15 @@
 			"settings":
 			{
 				"buffer_size": 255,
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "makefile",
 			"settings":
 			{
-				"buffer_size": 9581,
-				"line_ending": "Windows"
+				"buffer_size": 9511,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -468,12 +479,20 @@
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/C++/C++.sublime-build",
 	"command_palette":
 	{
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"Git Push",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git Push ",
+				"Git: Push Tags"
+			],
 			[
 				"",
 				"About"
@@ -583,7 +602,7 @@
 				"Snippet: class-..-(class)"
 			]
 		],
-		"width": 472.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -600,6 +619,7 @@
 	},
 	"file_history":
 	[
+		"/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/Game/Main.cpp",
 		"/C/Documents and Settings/Kaique Bressi/Meus documentos/MangaChapter.rb",
 		"/C/Documents and Settings/Kaique Bressi/Meus documentos/src=\"http",
 		"/D/grub2/grub.cfg",
@@ -726,8 +746,7 @@
 		"/C/Documents and Settings/Kaique Bressi/Meus documentos/HexChat Plugin/Plugin.hpp",
 		"/C/Documents and Settings/Kaique Bressi/Meus documentos/Dropbox/Cardapio Virtual/Projeto/Cliente/gdg/res/layout/activity_main.xml",
 		"/C/Drivers/SSDT/SOURCES",
-		"/E/xampp/htdocs/Sites/index.html",
-		"/C/Documents and Settings/Kaique Bressi/Meus documentos/HexChat Plugin/Plugin.cpp"
+		"/E/xampp/htdocs/Sites/index.html"
 	],
 	"find":
 	{
@@ -930,7 +949,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -938,15 +957,15 @@
 					"file": "Main.cpp",
 					"settings":
 					{
-						"buffer_size": 1023,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								733,
-								733
+								0,
+								0
 							]
 						],
 						"settings":
@@ -955,13 +974,39 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 240.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/.gitignore",
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "Main.hpp",
 					"settings":
 					{
@@ -972,8 +1017,8 @@
 						"selection":
 						[
 							[
-								113,
-								113
+								0,
+								0
 							]
 						],
 						"settings":
@@ -987,19 +1032,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "makefile",
 					"settings":
 					{
-						"buffer_size": 9581,
+						"buffer_size": 9511,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3146,
-								3146
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1013,7 +1058,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/C++ Project/SFGUI-master/examples/Buttons.cpp",
 					"settings":
 					{
@@ -1040,7 +1085,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/C++ Project/SFGUI-master/examples/Test.cpp",
 					"settings":
 					{
@@ -1067,7 +1112,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Mangas/MangaChapter.rb",
 					"settings":
 					{

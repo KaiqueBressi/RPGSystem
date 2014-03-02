@@ -1,0 +1,9 @@
+*.dll
+*.exe
+*.d
+*.o
+*.ttf
+*.png
+*.a
+*.sublime-sublime-project
+*.sublime-workspace
