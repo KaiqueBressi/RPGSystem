@@ -431,10 +431,10 @@
 			}
 		},
 		{
-			"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/.gitignore",
+			"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/gitignore_global",
 			"settings":
 			{
-				"buffer_size": 82,
+				"buffer_size": 29,
 				"line_ending": "Windows"
 			}
 		},
@@ -981,18 +981,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/.gitignore",
+					"file": "/C/Documents and Settings/Kaique Bressi/Meus documentos/Engine/gitignore_global",
 					"settings":
 					{
-						"buffer_size": 82,
+						"buffer_size": 29,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								82,
-								82
+								29,
+								29
 							]
 						],
 						"settings":
