@@ -32,7 +32,7 @@ void Button::setText(std::string text, sf::Color color)
 void Button::doButton(unsigned char color, unsigned int width, unsigned int height)
 {
     sf::Texture leftTexture;
-    leftTexture.loadFromFile("Widgets\\Button\\ButtonLeft.png");
+    leftTexture.loadFromFile("Widgets\\Button\\Button.png");
     sf::Sprite leftSprite(leftTexture);
     widgetTexture.draw(leftSprite);
     widgetTexture.display();
